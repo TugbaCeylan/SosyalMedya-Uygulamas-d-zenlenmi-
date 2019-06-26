@@ -1,2 +1,2 @@
-# SosyalMedya-Uygulamas-d-zenlenmi-
-Bu uygulama daha önce paylaştığım sosyal medya uygulamasının düzenlenmiş halidir.
+# SosyalMedya-Uygulamasi (Duzenlenmis hali)
+Bu uygulama daha önce paylaştığım sosyal medya uygulamasının düzenlenmiş, derlenip toplanmış halidir.
